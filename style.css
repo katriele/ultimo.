@@ -63,3 +63,21 @@ body {
     padding: 16px 0;
 }
 
+.estudante-título{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.estudante-todo{
+    disply: grid;
+    grid-template-columns: 20%  20%   20%  20%  20%;
+}
+.rodape{
+    bachground-color:black;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
